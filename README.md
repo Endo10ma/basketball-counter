@@ -10,7 +10,7 @@ This project is a clean, single-page application that functions as a basketball 
 
 ---
 
-## 🛠️ Key Technologies and Implementation Details
+##  Key Technologies and Implementation Details
 
 ### Core JavaScript Logic
 
